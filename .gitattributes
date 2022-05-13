@@ -36,3 +36,5 @@ Tools/SimpleHTML binary
 Contributions/MorphOSIcons/System binary
 Sourcecodes/Bin/* binary
 Sourcecodes/Data/**/* binary
+
+*.ab3 linguist-language=BlitzBasic
